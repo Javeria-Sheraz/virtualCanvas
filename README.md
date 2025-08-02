@@ -17,15 +17,18 @@ The `Header/` folder contains UI images used in the app.
 ➡️ **Make sure to keep the `Header` folder in the same directory as `VirtualPainter.py`**
 
 ## ⚙️ How to Run
+Paste these lines in the terminal of your IDE:
 
 ```bash
 pip install -r requirements.txt
-python VirtualPainter.py
 ````
+
+```bash
+python VirtualPainter.py
+```
 
 ## 📸 Demo
 
 *(Add a GIF or screenshot here if you have one later!)*
 
-```
 
