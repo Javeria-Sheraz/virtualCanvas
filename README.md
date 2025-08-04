@@ -1,6 +1,6 @@
 # Virtual Canvas 🎨🖐️
 
-Write on your screen like magic — no mouse, just your fingers!
+Write on your screen like magic; no mouse, just your fingers!
 
 ## 🧠 What is Virtual Canvas?
 Virtual Canvas allows you to draw in the air using hand gestures captured by your webcam.  
