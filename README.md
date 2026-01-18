@@ -29,6 +29,6 @@ python VirtualPainter.py
 
 ## 📸 Demo
 
-*(Add a GIF or screenshot here if you have one later!)*
+https://www.linkedin.com/posts/javeriasheraz1208_pythonprojects-opencv-augmentedreality-activity-7358549854404431872-hb-x?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFdHqrQBjC5StaqkFL5nZ4HfqEVLcpIVlcQ
 
 
